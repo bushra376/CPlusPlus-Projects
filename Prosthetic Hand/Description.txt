@@ -1,0 +1,3 @@
+Final Year Project: Prosthetic Hand
+
+This program contains the code for various grip patterns of the prostheic hand.
